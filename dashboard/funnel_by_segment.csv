@@ -1,0 +1,5 @@
+segment,signups,trials,activations,paids,churns,signup_to_trial_pct,signup_to_activated_pct,signup_to_paid_pct,paid_to_churn_pct
+Enterprise,250,173,96,227,65,69.2,38.4,90.8,28.63
+Mid-Market,246,173,103,221,63,70.33,41.87,89.84,28.51
+SMB,261,172,103,238,62,65.9,39.46,91.19,26.05
+Unknown,243,158,102,220,47,65.02,41.98,90.53,21.36

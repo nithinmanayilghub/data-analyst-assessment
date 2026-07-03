@@ -1,0 +1,5 @@
+acquisition_source,signups,trials,activations,paids,churns,signup_to_trial_pct,signup_to_activated_pct,signup_to_paid_pct,paid_to_churn_pct
+ads,264,173,88,233,67,65.53,33.33,88.26,28.76
+organic,248,172,115,224,52,69.35,46.37,90.32,23.21
+outbound,257,182,115,235,65,70.82,44.75,91.44,27.66
+referral,231,149,86,214,53,64.5,37.23,92.64,24.77

@@ -1,0 +1,32 @@
+# Python Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE / Editor Settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Package Manager Lockfiles & Version Control
+.python-version
+.system_generated/
+temp_extract/
+
+# Scratch files & raw archives (Keep the repo clean)
+*.zip
+*.docx
+main.py
+Workbooks/
+
+# Data Outputs (Optional, but kept in repo under dashboard/ for portability)
+# We allow the specific dashboard/ and data/ folders, but block temp/logs
+*.log
+walkthrough.md
