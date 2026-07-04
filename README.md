@@ -1,5 +1,5 @@
 # SaaS Growth & GTM Analytics (MySQL - Python - Power BI)
-### *Emergence Data Analyst Take-Home Assessment*
+### *Emergence Data Analyst Task*
 
 ---
 
